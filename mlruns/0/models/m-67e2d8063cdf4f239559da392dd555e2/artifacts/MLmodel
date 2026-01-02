@@ -1,0 +1,20 @@
+artifact_path: file:///C:/Users/VICTUS/Desktop/TP2 DL/mlruns/0/models/m-67e2d8063cdf4f239559da392dd555e2/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.10.5
+mlflow_version: 3.7.0
+model_id: m-67e2d8063cdf4f239559da392dd555e2
+model_size_bytes: 4929536
+model_uuid: m-67e2d8063cdf4f239559da392dd555e2
+prompts: null
+run_id: 5e43437e52b442f2aa04eb3b2f1879ed
+utc_time_created: '2026-01-02 09:03:55.700814'
